@@ -1,0 +1,39 @@
+HEADER
+header con display flex
+un around para separarlo
+
+nav con lista desordenada con etiquetas a que cuando me posiciono en hoaver cambia a gris, puede ser una etiqueta a estilizada o button
+puede box-shadow cuando me posiciono en el button
+
+Flex box, h1
+
+otro contenedor flex
+otro contenedor flex con 3 elementos en columna, 01 con background color y radius y un before
+
+class=parrafo
+
+H2 con align center
+
+contenedor flex background fondo boton con id por distinto es blanco
+
+FOOTER
+flexbox con 4 contenedores
+
+2 cosas: íconos con fondo naranja 
+lista desordenada
+lista desordenada
+mini form
+span u b con Copyright
+
+
+MOBILE
+todo lo horizontal, debe pasar a vertical
+hamburguesa nav con display none en escritorio y display flex en mobile
+
+column riverse
+
+cards 1 card
+con imagen de carrusel
+flex order para ordenar iconos de redes
+
+

@@ -1,0 +1,96 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+/*    HEADER   */
+
+header {
+    margin: 75px 165px;
+    cursor: pointer;
+}
+
+header img {
+
+}
+nav {
+    display: flex;
+    
+}
+
+li { 
+    display: inline-block;
+    padding: 8px 10px;
+    margin-right: 10px;
+    margin-left: 10px;
+    color: #242E52;
+    ;
+}
+
+button {
+    cursor: pointer;   
+}
+
+/*   BODY   */
+
+body {
+    font-family: 'Be Vietnam Pro', sans-serif;
+}
+
+/*  cards testimonies   */
+
+h2 {
+    position: relative;
+    display: flex;
+    font-size: 39.21px; /*3.9rem*/
+    color: #242E53;
+     margin: 0px 520px; /*se descuadra con em */
+}
+
+.testimony {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-around;
+    width: 100%;
+    height: 29.875em;
+}
+
+.cards-container {
+    display: flex;
+    margin: 4.438em;
+    }
+
+
+.cards {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-around;
+    height: 13.688em;
+    width: 27.813em;
+    background-color:#FAFAFA;
+    position: relative;
+}
+
+.cards img {
+    width:4.375em;
+    height: 4.375em;
+    border: 3.125em;
+}
+
+.cards h4 {
+    padding-top: 1.313em;
+    color:#3F4868;  
+}
+
+.cards p {
+    color:#B9B9C1;
+   font-weight: 500; 
+   padding-top: 1.313em;
+   padding-right: 1.313em;
+   padding-bottom: 2.375em;
+   padding-left: 1.313em;
+    text-align: center; 
+}
