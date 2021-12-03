@@ -356,7 +356,6 @@ transform: translateY(4px);
     background-color: #F3613C;
      height: 170px;
      width: auto;
-align-items: flex-start;
    }
 
    #section-3 p {
@@ -510,6 +509,17 @@ form {
     height: 2.5rem;
     width: 3.5rem;
     text-align: center;
+}
+
+#Go:hover {
+  opacity: 0.5;
+  background-color: #fa7923;
+}
+
+#Go:active {
+background-color: #fa7923;
+box-shadow: 0 5px rgb(196, 195, 195);
+transform: translateY(4px);
 }
 
 #copy {
